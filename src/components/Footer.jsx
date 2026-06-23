@@ -62,7 +62,7 @@ const Footer = () => {
                         <Mail size={16} /> neerajakshikoppisetty@gmail.com
                     </a>
                     <a href="tel:+919399904541" className="flex items-center gap-3 text-text-muted hover:text-text-main no-underline transition-colors text-sm">
-                        <Phone size={16} /> +91 9399904541
+                        <Phone size={16} />
                     </a>
                     <div className="flex items-center gap-3 text-text-muted text-sm">
                         <MapPin size={16} /> Andhra Pradesh, India
