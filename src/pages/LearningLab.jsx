@@ -121,8 +121,8 @@ const LearningLab = () => {
                                         ? 'var(--color-primary, #a78bfa)'
                                         : 'rgba(255,255,255,0.05)',
                                     color: activeCategory === cat
-                                        ? '#fff'
-                                        : 'rgba(255,255,255,0.6)',
+                                        ? '#bd94f4ff'
+                                        : 'rgba(116, 123, 200, 0.6)',
                                 }}
                             >
                                 {cat}
