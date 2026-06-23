@@ -1,0 +1,218 @@
+{
+    "personalInfo": {
+        "title": "Software Engineer | AI & Agentic AI Specialist | Cloud Engineer",
+        "email": "[neerajakshikoppisetty@gmail.com]",
+        "linkedin": "https://www.linkedin.com/in/koppisetty-neerajakshi/",
+        "github": "https://github.com/neerajakshiofc",
+        "profile": "Software Engineer specializing in AI-driven solutions and agentic workflows, with hands-on experience in building intelligent applications using Vertex AI, Multimodal RAG, and the Gemini API. Strong foundation in full-stack development, API integration, and cloud-based AI systems. Actively focused on leveraging agentic AI tools and automation frameworks to improve development efficiency."
+    },
+    "skills": {
+        "AI_ML": [
+            "AI",
+            "Agentic AI",
+            "Machine Learning",
+            "Prompt Engineering",
+            "Agentic AI Systems",
+            "Multimodal RAG",
+            "Google Agent Development Kit (ADK)",
+            "Gemini API",
+            "Vertex AI",
+            "Imagen",
+            "LangChain (Basic)",
+            "NLP",
+            "Scikit-learn",
+            "TensorFlow"
+        ],
+        "ProgrammingLanguages": [
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "Java",
+            "C",
+            "R"
+        ],
+        "Cloud_DevOps": [
+            "GCP",
+            "Azure",
+            "AWS",
+            "Azure DevOps",
+            "Docker"
+        ],
+        "WebDevelopment": [
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "RESTful APIs",
+            "HTML5",
+            "CSS3"
+        ],
+        "Databases": [
+            "SQL",
+            "MySQL",
+            "MongoDB",
+            "Firebase Firestore"
+        ],
+        "Tools": [
+            "Google Cloud SDK",
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Postman",
+            "Bruno"
+        ]
+    },
+    "education": [
+        {
+            "degree": "B.Sc. – Artificial Intelligence and Machine Learning",
+            "institution": "Parvathaneni Brahmayya Siddhartha College of Arts and Science",
+            "period": "2022 – 2025",
+            "cgpa": "6.86"
+        },
+        {
+            "degree": "Intermediate (M.E.C)",
+            "institution": "Gurukul Junior College",
+            "period": "2020 – 2022",
+            "cgpa": "8.2"
+        },
+        {
+            "degree": "SSC",
+            "institution": "Lahari Vidya Mandir",
+            "period": "2019 – 2020",
+            "cgpa": "10.0"
+        }
+    ],
+    "projects": [
+        {
+            "title": "BudgetBeacon – Agentic AI Extension",
+            "role": "Team Lead | Agentathon 2025 | GDG Hyderabad",
+            "highlights": [
+                "Integrated agent-based AI systems for automated financial insights.",
+                "Built agents for expense categorization, spending analysis, and investment recommendations.",
+                "Utilized Google ADK, Jules, Antigravity, and Stitch."
+            ]
+        },
+        {
+            "title": "BudgetBeacon – GenAI-Powered Financial Assistant",
+            "role": "Team Lead | GDG on Campus Solution Challenge | 2025",
+            "highlights": [
+                "Full-stack GenAI financial assistant with AI chatbot and stock insights.",
+                "Integrated Google Cloud APIs, Alpha Vantage, and Yahoo Finance.",
+                "Tech: React.js, Node.js, MongoDB, Tailwind CSS, Firebase."
+            ]
+        },
+        {
+            "title": "StriShakthiAI – AI Financial Empowerment App for Women",
+            "role": "Solo Developer | iAccelerate Women’s Hackathon 2025",
+            "highlights": [
+                "AI-powered financial literacy platform with budgeting tools.",
+                "Designed with inclusive UX and financial awareness.",
+                "Tech: React.js, Flask, MongoDB, D3.js."
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "role": "Application Security Intern",
+            "company": "Infosys Springboard",
+            "period": "Nov 2025 – Jan 2026",
+            "highlights": [
+                "Built an AI-powered web application vulnerability scanner that scans target URLs and detects common security flaws, including SQL Injection, Cross-Site Scripting (XSS), and Insecure Direct Object References (IDOR).",
+                "Strengthened understanding of web security concepts, vulnerability detection methodologies, and secure development practices through hands-on testing and analysis."
+            ]
+        },
+        {
+            "role": "Back End Developer Intern",
+            "company": "Society for Learning Technologies (SOLETE)",
+            "period": "Jan–Apr 2025",
+            "highlights": [
+                "Built backend app (Flask, PostgreSQL) & deployed on AWS EC2.",
+                "Developed secure REST APIs using JWT authentication."
+            ]
+        },
+        {
+            "role": "Artificial Intelligence Intern",
+            "company": "AIMERS Society",
+            "period": "Apr–Jul 2024",
+            "highlights": [
+                "Developed AI models for automation and intelligent systems.",
+                "Applied deep learning techniques to improve efficiency."
+            ]
+        }
+    ],
+    "learningPlatform": [
+        {
+            "title": "GDG Agentathon 2025: Building Agentic Ecosystems",
+            "category": "Hackathon",
+            "provider": "GDG Hyderabad",
+            "format": "Blog",
+            "livedemo": "https://drive.google.com/file/d/1rZn6ZrK_9npoIBR0Ivfv4Q7frkjFtmyU/view?usp=drive_link",
+            "link": "https://www.linkedin.com/posts/koppisetty-neerajakshi_agentathonhyderabad-agentathon2025-firstinpersonhackathon-activity-7410637698459430912-34Zs",
+            "cloudRunUrl": "https://budget-beacon-ai-2025.web.app/dashboard/main",
+            "tools": [
+                {
+                    "name": "livedemo",
+                    "url": "https://drive.google.com/file/d/1rZn6ZrK_9npoIBR0Ivfv4Q7frkjFtmyU/view?usp=drive_link"
+                },
+                {
+                    "name": "Stitch",
+                    "url": "https://stitch.withgoogle.com/"
+                },
+                {
+                    "name": "Jules",
+                    "url": "https://jules.google.com/session?..."
+                },
+                {
+                    "name": "Google ADK Docs",
+                    "url": "https://google.github.io/adk-docs/get-started/"
+                },
+                {
+                    "name": "Antigravity Blog",
+                    "url": "https://developers.googleblog.com/build-with-google-antigravity-our-new-agentic-development-platform/"
+                },
+                {
+                    "name": "ADK Runtime",
+                    "url": "https://google.github.io/adk-docs/runtime/"
+                },
+                {
+                    "name": "GitHub Repo",
+                    "url": "https://github.com/neerajakshiofc/gdg-agentathon-2025"
+                }
+            ]
+        },
+        {
+            "title": "AWS Cloud Quest: Cloud Practitioner",
+            "category": "Cloud",
+            "provider": "Amazon Web Services",
+            "format": "Certificate",
+            "link": "https://www.linkedin.com/posts/koppisetty-neerajakshi_aws-cloudcomputing-infosysspringboard-ugcPost-7373625507562766336-OHLe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhhOvcBxwnNfwLfn4suLJH0VvOnnxVjf6A"
+        },
+        {
+            "title": "AWS Cloud Quest: Generative AI Practitioner",
+            "category": "Cloud/AI",
+            "provider": "Amazon Web Services",
+            "format": "Certificate",
+            "link": "https://www.linkedin.com/posts/koppisetty-neerajakshi_aws-cloudcomputing-infosysspringboard-ugcPost-7384125750150483968-ayA-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhhOvcBxwnNfwLfn4suLJH0VvOnnxVjf6A"
+        },
+        {
+            "title": "Oracle Cloud Infrastructure 2025 Certified Multicloud Architect",
+            "category": "Cloud",
+            "provider": "Oracle",
+            "format": "Certificate",
+            "link": "https://drive.google.com/file/d/1-pCBjNk8ekW15jzuQxCheMZs2lT0RUjY/view?usp=sharing"
+        },
+        {
+            "title": "Build Real-World AI Applications with Gemini & Imagen",
+            "category": "AI",
+            "provider": "Google Cloud",
+            "format": "Workshop",
+            "link": "https://www.linkedin.com/posts/koppisetty-neerajakshi_cts-jan-26-badge-was-issued-by-explore-google-share-7425541491265069056-AG8k/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhhOvcBxwnNfwLfn4suLJH0VvOnnxVjf6A"
+        },
+        {
+            "title": "Get Started with AI Agent Development on Azure",
+            "category": "AI/Agentic",
+            "provider": "Microsoft Learn",
+            "format": "Blog",
+            "link": "https://drive.google.com/file/d/1O-0DfnvvbaS6jzUaNkV5w2jeP4Tl8917/view?usp=drive_link"
+        }
+    ]
+}
